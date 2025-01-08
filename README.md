@@ -9,7 +9,7 @@ I am a Computer Engineering student at Suranaree University of Technology with h
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [paranyu.lk@gmail.com](mailto:paranyu.lk@gmail.com)
 * 🧠  I'm learning Next.js and Prisma
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumu3007"/>
 ### Skills
 
 
